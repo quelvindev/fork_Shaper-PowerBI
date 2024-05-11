@@ -1,26 +1,31 @@
-Projeto Shaper Maps para Power BI
+# Projeto Shaper Maps para Power BI
+
 Este projeto oferece uma integração pronta do Shaper Maps para o Power BI, permitindo aos usuários visualizar e analisar dados geoespaciais de forma eficiente e intuitiva.
 
-Recursos Principais:
-Integração Direta: Integre facilmente o Shaper Maps em seus relatórios do Power BI, sem a necessidade de configurações complicadas.
+## Recursos Principais
 
-Visualizações Personalizadas: Explore e apresente seus dados em mapas altamente personalizáveis, adaptados às necessidades específicas de análise.
+- **Integração Direta:** Integre facilmente o Shaper Maps em seus relatórios do Power BI, sem a necessidade de configurações complicadas.
 
-Suporte Abrangente: Conte com um suporte abrangente para garantir uma experiência suave de integração e uso do Shaper Maps no Power BI.
+- **Visualizações Personalizadas:** Explore e apresente seus dados em mapas altamente personalizáveis, adaptados às necessidades específicas de análise.
 
-Como Começar:
-Instalação Simples: Siga as instruções de instalação para incorporar o Shaper Maps ao seu ambiente do Power BI em poucos passos simples.
+- **Suporte Abrangente:** Conte com um suporte abrangente para garantir uma experiência suave de integração e uso do Shaper Maps no Power BI.
 
-Explorando Recursos: Experimente os recursos do Shaper Maps em seus próprios conjuntos de dados e descubra como ele pode melhorar a análise espacial em seus projetos.
+## Como Começar
 
-Contribuições Bem-Vindas: Contribua para o desenvolvimento do projeto, fornecendo feedback, relatórios de problemas ou até mesmo enviando solicitações de pull com novos recursos ou melhorias.
+1. **Instalação Simples:** Siga as instruções de instalação para incorporar o Shaper Maps ao seu ambiente do Power BI em poucos passos simples.
 
-Exemplos e Demonstração:
-Veja o Shaper Maps em Ação: Explore uma demonstração interativa do Shaper Maps em uso dentro do Power BI.
+2. **Explorando Recursos:** Experimente os recursos do Shaper Maps em seus próprios conjuntos de dados e descubra como ele pode melhorar a análise espacial em seus projetos.
 
-Exemplo de Relatório: Confira um exemplo de relatório Power BI que utiliza o Shaper Maps para visualização de dados geoespaciais.
+3. **Contribuições Bem-Vindas:** Contribua para o desenvolvimento do projeto, fornecendo feedback, relatórios de problemas ou até mesmo enviando solicitações de pull com novos recursos ou melhorias.
 
-Contribuindo:
-Se você encontrar algum problema ou tiver ideias para melhorias, fique à vontade para abrir uma issue ou enviar uma pull request. Sua contribuição é valiosa para o aprimoramento contínuo do projeto.
-Suporte:
-Para obter ajuda ou esclarecer dúvidas, entre em contato conosco por meio das issues do GitHub ou através do nosso canal de suporte.
+## Exemplos e Demonstração
+[Shaper Maps](maps.png)
+
+
+## Contribuindo
+
+- Se você encontrar algum problema ou tiver ideias para melhorias, fique à vontade para abrir uma issue ou enviar uma pull request. Sua contribuição é valiosa para o aprimoramento contínuo do projeto.
+
+## Suporte
+
+Para obter ajuda ou esclarecer dúvidas, entre em contato conosco por meio das issues do GitHub 
