@@ -19,7 +19,7 @@ Este projeto oferece uma integração pronta do Shaper Maps para o Power BI, per
 
 ## Créditos
 
-Este projeto utiliza dados e recursos do projeto [geodata-br](https://github.com/tbrugz/geodata-br) desenvolvido por [Thiago Brizolara](https://github.com/tbrugz). Agradecemos pela disponibilização do trabalho, que foi fundamental para o desenvolvimento desta integração.
+Este projeto utiliza dados e recursos do projeto [geodata-br](https://github.com/tbrugz/geodata-br) desenvolvido por [Telmo Brugnara](https://github.com/tbrugz). Agradecemos pela disponibilização do trabalho, que foi fundamental para o desenvolvimento desta integração.
 
 ## Contribuindo
 
